@@ -91,7 +91,7 @@ Dự án tuân thủ mô hình **MVC (Model-View-Controller)** chuẩn mực đ�
 
 | Trang Chủ | Chi Tiết Sản Phẩm | Admin Dashboard |
 | :---: | :---: | :---: |
-| ![Home](https://via.placeholder.com/300x200?text=Home+Page) | ![Detail](https://via.placeholder.com/300x200?text=Product+Detail) | ![Admin](https://via.placeholder.com/300x200?text=Admin+Panel) |
+| <img width="1800" height="900" alt="shop" src="https://github.com/user-attachments/assets/34785d9f-96a1-454b-b535-06c64d35aa38" />  | <img width="1800" height="900" alt="detial" src="https://github.com/user-attachments/assets/e207bfa1-4826-4346-b71f-d091ff38655d" /> | <img width="1800" height="900" alt="admin" src="https://github.com/user-attachments/assets/83e7daa0-c07f-4df3-b36f-714ded59a3bc" /> |
 
 ---
 
